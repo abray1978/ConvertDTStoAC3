@@ -1,3 +1,5 @@
+THIS APPLICATION IS PROVIDED AS IS.  AUTHOR IS NOT RESPONSIBLE FOR ANY DAMAGE OR ISSUES THAT IT MAY CAUSE.
+
 This .NET application was built to allow me to basically convert DTS to AC3 using MKVTOOLNIX, FFMPEG all with SABNZBD.  
 
 I used the logic from mkvdts2ac3.sh, written by Jake Wharton <jakewharton@gmail.com> & Chris Hoekstra <chris.hoekstra@gmail.com>
