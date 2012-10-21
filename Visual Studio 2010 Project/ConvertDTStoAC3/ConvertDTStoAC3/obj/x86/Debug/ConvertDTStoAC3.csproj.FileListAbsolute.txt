@@ -1,0 +1,9 @@
+d:\documents\visual studio 2010\Projects\ConvertDTStoAC3\ConvertDTStoAC3\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\ConvertDTStoAC3\ConvertDTStoAC3\bin\Debug\ConvertDTStoAC3.exe
+d:\documents\visual studio 2010\Projects\ConvertDTStoAC3\ConvertDTStoAC3\bin\Debug\ConvertDTStoAC3.pdb
+d:\documents\visual studio 2010\Projects\ConvertDTStoAC3\ConvertDTStoAC3\obj\x86\Debug\ConvertDTStoAC3.exe
+d:\documents\visual studio 2010\Projects\ConvertDTStoAC3\ConvertDTStoAC3\obj\x86\Debug\ConvertDTStoAC3.pdb
+d:\documents\visual studio 2010\Projects\ConvertDTStoAC3\ConvertDTStoAC3\bin\Debug\ConvertDTStoAC3.exe.manifest
+d:\documents\visual studio 2010\Projects\ConvertDTStoAC3\ConvertDTStoAC3\bin\Debug\ConvertDTStoAC3.application
+d:\documents\visual studio 2010\Projects\ConvertDTStoAC3\ConvertDTStoAC3\obj\x86\Debug\ConvertDTStoAC3.exe.manifest
+d:\documents\visual studio 2010\Projects\ConvertDTStoAC3\ConvertDTStoAC3\obj\x86\Debug\ConvertDTStoAC3.application
