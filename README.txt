@@ -19,3 +19,12 @@ Optional Command Line Arguments:
 	The original MKV file will not be removed
 
 This was written in .NET 4.0, so you will need that on your windows system for this to work.
+
+To use this with sabnzbd, create a script similar to the following:
+
+convertDTS2AC3.bat:
+
+@ECHO off
+
+CD /D %1
+D:\Convert\ConvertDTStoAC3.exe -debug -mvktoolnixpath d:\Convert -ffmpegpath d:\Convert -sedpath d:\Convert -source %1
